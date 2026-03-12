@@ -1,1 +1,1 @@
-sentinel-dashboard:1.8.9.
+sentinel-dashboard:1.8.9
