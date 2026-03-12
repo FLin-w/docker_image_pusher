@@ -1,2 +1,1 @@
-
-openjdk:8
+sentinel-dashboard:1.8.9.
