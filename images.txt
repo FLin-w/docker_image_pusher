@@ -1,2 +1,2 @@
 
-mongo:6.0.2
+jenkins/jenkins:lts
