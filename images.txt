@@ -1,5 +1,2 @@
 
-seataio/seata-server:1.5.1
-docker.elastic.co/elasticsearch/elasticsearch:7.6.2
-docker.elastic.co/kibana/kibana:7.6.2
-docker.elastic.co/logstash/logstash:7.6.2
+mongo:6.0.2
